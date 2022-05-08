@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+C:\2022_jsp_workspace\cookie_session\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\514092150.index
+\ProjCoockieSession\src
+C:\2022_jsp_workspace\cookie_session\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3242295820.index
+\ProjCoockieSession\src
+C:\2022_jsp_workspace\cookie_session\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\483220398.index
+\ProjCoockieSession\src

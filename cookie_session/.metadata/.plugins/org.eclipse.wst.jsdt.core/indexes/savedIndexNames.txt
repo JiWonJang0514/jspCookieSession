@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\2022_jsp_workspace\cookie_session\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1287656679.index
+2726964771.index
+2891821674.index
+3855289047.index
+2521113918.index
+2374741660.index
